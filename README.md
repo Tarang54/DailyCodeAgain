@@ -17,4 +17,7 @@ Day 5
 Demonstration of event Listeners.
 
 Day 6
+Digital clock using JavaScript.
+
+Day 7
 Demonstration of Promises in JavaScript.
