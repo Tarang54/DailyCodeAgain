@@ -9,3 +9,12 @@ WAP to find the complement of a base 10 number.
 
 Day 3
 Snake-Water-Gun Game using JavaScript.
+
+Day 4
+Tell me a joke using JavaScript.
+
+Day 5 
+Demonstration of event Listeners.
+
+Day 6
+Demonstration of Promises in JavaScript.
