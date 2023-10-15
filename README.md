@@ -21,3 +21,5 @@ Digital clock using JavaScript.
 
 Day 7
 Demonstration of Promises in JavaScript.
+
+Day 8
