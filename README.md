@@ -23,4 +23,4 @@ Day 7
 Demonstration of Promises in JavaScript.
 
 Day 8
-Use of try catch block in js along with the error objects.
+Use of try-catch block in js along with the error objects.
